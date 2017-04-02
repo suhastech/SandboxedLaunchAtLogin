@@ -1,4 +1,4 @@
-SandboxedLaunchAtLogin
+SandboxedLaunchAtLogin_Sk
 ======================
 
 Sandboxing makes launching apps at login is a bit tricky.
